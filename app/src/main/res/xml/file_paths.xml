@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="my_images"
+        path="." />
+    <external-path
+        name="pathName"
+        path="." />
+    <external-files-path
+        name="AppVersion"
+        path="." />
+    <files-path
+        name="files"
+        path="." />
+</paths>

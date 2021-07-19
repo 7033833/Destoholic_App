@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">DestoholicStudent</string>
+
+    <string name="codice_fiscale">
+        Tax identification number for foreign citizens\n\n
+        What is the tax identification Number?\n\n
+        The tax identification number provides a means of identification of foreign citizens in their relations with public authorities and other administrations. For individuals, it is determined on the basis of personal data and is made up of an expression of 16 alphanumeric characters.\n\n
+        How to apply for a tax identification number abroad?\n\n
+        Non-resident individuals who need to obtain the tax identification number can apply for it to the Italian consular authorities in the Country of residence.\n\n
+        How to apply for a tax identification number in Italy?\n\n
+        Non-EU citizens can obtain the tax identification number either at the Single desk for immigration “Sportelli Unici per l’immigrazione” or by any Police headquarters “Questura”. The Single desk for immigration issues the tax identification number to citizens who apply for entry into the Country either for employment purposes or for reunite with their family. Police headquarters assign the tax identification number to foreign nationals who require either the issuance or the renewal of a residence permit.\n\n
+        In any other situation, the tax identification number can be obtained from the offices of the Italian Revenue Agency, by submitting a request indicating the personal data and the residence for tax purposes where the card should be delivered.\n\n
+        Citizens from non-EU Countries must submit at least one of the following documents:\n
+        a valid passport with visa (if required), or any other document accepted by the Italian authorities\n\n
+        a certificate of identity issued by the Italian diplomatic or consular authorities of the Country of nationality (with photo)\n\n
+        a valid residence permit (permesso di soggiorno)\n\n
+        an ID card issued by the municipality of residence in Italy.\n\n
+        Non-EU citizens must also prove that they have the right to stay, even temporarily, in Italy.\n\n
+        Citizens of European Union may apply for the tax identification number to any office of the Italian Revenue Agency showing, along with the request for the assignment, a valid identification document (identity card or passport).\n\n
+        What to do in case of incorrect data on the tax identification number card?\n\n
+        In case of incorrect data showed on the tax identification number card, a replacement must be required to any office of the Italian Revenue Agency, showing a valid identification document.\n\n
+        What to do in case of loss or theft?\n\n
+        You can request a duplicate of the tax identification number by filling the request online.\n\n
+        As an alternative, you can request it directly to a territorial office of the Italian Revenue Agency.\n\n
+    </string>
+
+    <string name="permesso_di_soggiorno">
+        If a student has a study visa and stays in Italy for more than 90 days, he must apply for a residence permit. Subsequently, if the period of study has not yet ended, he / she will have to apply for the renewal of the residence permit.\n\n
+        The residence permit is issued to non-EU citizens who attend a study course - university or training - in Italy following the granting of the appropriate study visa by the Italian diplomatic representation in the country of origin or residence. For access to training courses and professional internships, specific quotas are provided for each year relating to the maximum number of study visas to be granted.\n\n
+        Release and renewal\n\n
+        Upon entering Italy, the foreign citizen in possession of a visa for study reasons must submit the request for a residence permit to the competent Police Headquarters for the area using the Kit available at the SASS office.\n\n
+        The first residence permit for study issued to university students - also for attending a masters or doctorate - who entered Italy following the issuance of a visa has a limited duration (usually until the visa expires).\n\n
+        The request for the first residence permit must always be submitted within 8 days of entering Italy, while the application for the renewal of the residence permit must be submitted by the expiry date of the residence permit held by the interested party.\n\n
+        The receipt of the request for issue and renewal guarantees the enjoyment of the rights connected to the possession of the residence permit, i.e. it certifies the regular presentation of the application but does not allow, unlike the permit itself, to be able to go to another Schengen state.
+        The holder of a residence permit for study (university or internship) can go to the countries of the Schengen Area for periods of less than three months without fulfilling any formal obligation apply for a permit for family reunification register with the National Health Service to work like Italian citizens for no more than 20 hours a week benefit from social security measures connected with the establishment of a regular employment relationship.\n\n
+        Fundamental steps\n\n
+        After completing the Residence Permit Kit, the user must go to the post office to send it. The Post Office will make an appointment directly for the "photo signalling" procedure and to verify the suitability of the user documentation. After having done the photo-registration, a code will be issued with which you can check the status of your application.\n\n
+        Documentation required to apply for the issuance of the residence permit for study purposes:\n\n
+        Kit for requesting a residence permit that can be collected free of charge at the SASS office or in the post office.\n
+        Photocopy of the passport pages containing their data and the stamps placed at the borders.\n
+        Photocopy of the certificate certifying Enrolment in the course of study to be followed.\n
+        Photocopy of the tax code, if in possession.\n\n
+        Documentation required to apply for the Renewal of the residence permit for study reasons:\n\n
+        Kit for requesting a residence permit that can be collected free of charge at the SASS office or in the post office\n
+        Photocopy of the passport pages containing their data and the stamps placed at the borders.\n
+        Photocopy of the certification certifying the passing of at least one exam for the first renewal and at least 2 exams for the subsequent renewals of the residence permit.\n
+        Photocopy of the insurance policy (valid in the national territory for the duration of the residence permit) against the risk of illness and / or accidents.\n
+        Photocopy of the documentation certifying the availability of adequate financial resources for the duration of the residence permit.\n
+        Photocopy of the expiring residence permit.\n
+        Photocopy of the tax code.\n\n
+        The documents coming from abroad to be used must be translated and legalized by the Italian diplomatic representation competent for the country of origin.\n\n
+        Costs for issuing / renewing the residence permit 16-euro stamp duty (stamp duty that can be purchased in any tobacconist) . € 70.46 contribution relating to the cost of the electronic residence permit up to 1 year (pre-marked postal current account slip). 30-euro expenses related to the acceptance of the application for the issue / renewal of the residence permit.\n\n
+        Note: The international student who enters the Italian territory for the first time and submits an application for the issue of a residence permit of not less than one year must sign the integration agreement. The integration agreement is a tool to facilitate the integration of the foreign citizen in Italy. University students are exempt from the test to ascertain their knowledge of the Italian language and civil life in Italy. EU students who stay in Italy for more than 3 months must apply to the Registry Office of the Municipality for registration and the issue of a residence certificate.
+
+        </string>
+
+    <string name="international_desk">
+        The International Desk provides the first point of contact for all international students whose country of residence lies outside of the European Union or the European Economic Area.\n\n
+        All enquiries from EU-resident prospective students should be addressed to the Student Administration Office of the School they wish to apply to or the Erasmus front desks of their School if they are Erasmus students.\n\n
+        Consult the University website under the tabs "Ammissioni" in the Italian site or "Students" in the English site for more information.\n\n
+        The International Desk serves students from all Schools.\n\n
+        There are two different types of foreign students, depending on their country of residence:\n\n
+        EU and EU-levelled students.\n
+        Non-EU students living abroad.\n\n
+        The main difference between EU/EU-levelled students and non-EU ones living abroad concerns the need for pre-enrolment with entry visa procedures clearance that non-EU students must follow.
+        Moreover, EU and EU-levelled future students are not required to sit for the Italian language test and should enrol at the Student Administration Office (Segreteria Studenti) of the School of choice, whereas non-EU students with student visa enrol via the International Desk.\n\n
+        All students enrolling in programmes with unrestricted access (no set quota) need to take the self-evaluation test (prova di verifica delle conoscenze in ingresso) before sitting for any exam.\n\n
+        Students enrolling in set quota programmes need to take an admission test (prova di ammissione).\n\n
+        More information on self-evaluation and on admission tests and their calendars (Italian site).\n\n
+        At the time of enrolment students must pay the first instalment of fees and charges. For detailed information please refer to the Manifesto degli Studi (in Italian), the official source of all relevant information about studying at the University.\n\n
+        Non-EU students living abroad can find more information on pre-enrolment and student visa request on the website Studiare in Italia.\n\n
+
+    </string>
+
+    <string name="bank_account">
+        As a student, the first thing that should come to your mind after settling in a beautify country like Italy is how to open a bank account. Money is everything! You will definitely need it either in cash or as a balance in your credit card. Upon arrival, you will be needing some cash to pay for transport, monthly rent, or even do some shopping. Whichever it is, you will definitely need some cash to do that. And the only way that can be possible is if you have a bank account.\n\n
+        Italy has an organized financial sector that favour’s both the natives and students coming down to further their academics. Therefore, you shouldn’t let anxiety take over you on how to open a bank account. Opening a bank account is as simple as arithmetic, all you need is the right kind of information and you are ready to go enjoy the beautiful city that you have decided to study.\n\n
+        Having to assist several students to pass through this difficult time several times, we know exactly what you need when it comes to Opening a bank account. And we are ready to share that with you right here.\n\n
+        What You Need to Open Bank Account?\n\n
+        As a International student, you have access to open a free bank account with UniCredit. This bank offers deposit, withdraws and online payments services which are completely free of charge. More so, you won’t be charged on a regular basis for using the ATM to make transactions. To open a UniCredit bank account, all you need are:\n\n
+        A valid passport to help them access all the necessary information needed to open a bank account.\n
+        An original document issued by the student secretary of the university stating that you are a student of that university.\n
+        An apartment document to prove that you live in the state you intend to run your university program\n
+        Finally, you will also be needing a copy of your personal Codice Fiscale. Just in case you happen to be a Non-EU student, you will be meeting your visa.\n\n
+        After getting all these in place, you can then visit any UniCredit branch to get in touch with an agent or account manager that will help open bank account. Upon opening, you will be given a debit card with which you can make transactions anywhere in Italy and Europe at large.\n\n
+        This debit card is also used to make all sorts of pays online such as Payments and receive of cash from anywhere in the world, transaction history, and other relevant transactions. Your bank details are your access to the world. It’s very important for you to keep it safe at all times to prevent any form of fraud.\n\n
+        There is one important fact that you need to keep at the back of your mind. And that is your bank account is a financial indicator. The amount of money being used during transactions does affect your financial status. As a student, you won’t be able to seek a reduction in tuition fee if your transaction history shows that you have a large sum of money.\n\n
+
+    </string>
+
+    <string name="accomodation">
+        Student housing in Italy is often managed by the international office at your university. These accommodation offices provide information on renting apartments, which are generally cheaper than the cost of finding housing on the private market in Italy. Contact your institution to confirm any housing guarantees they offer for international students, as they may be more accessible than tackling the private rental market. Typically, housing guarantees are only for students coming from outside the EU.\n\n
+        On the private market, its common that students rent a room rather than a whole apartment and share it with other students. Student housing in Italy is more expensive in bigger cities and can range anywhere from €300-600 a month, depending on the size and location in relation to the city centre and how far you are from campus.\n\n
+        For a fee, accommodation information can also be found with real estate agencies. For students who want to make their own accommodation arrangements without the help of a real estate agent, they can use online portals. The minimum rental period for most accommodation in Italy is one year, but student accommodation in furnished rooms is usually available for shorter periods.\n\n
+
+
+
+    </string>
+
+    <string name="erasmus">
+        Erasmus Plus is the European Union program for Education, Training , Youth and Sport.\n\n
+        Erasmus + is part of a socio-economic context that sees, on the one hand, almost 6 million young Europeans unemployed, with levels that in some countries exceed 50%. At the same time, there are over 2 million job vacancies and a third of employers report difficulties in recruiting staff with the required qualifications. This demonstrates that there are major skills gaps in Europe.\n\n
+        Erasmus + is designed to give concrete answers to these problems, through opportunities for study, training, work experience or volunteering abroad. The quality and relevance of European education, training and youth care organizations and systems will be increased through support for the improvement of teaching and learning methods, new programs and the professional development of teaching staff and youth workers, and through greater cooperation between the world of education and training and the world of work to address the real needs in terms of human and social capital development, in Europe and elsewhere.\n\n
+        Erasmus + promotes opportunities for:\n\n
+        Students, Trainees, Teachers and other Teaching Staff, Youth Exchanges, Youth Workers and Volunteers.\n\n
+        Create or improve partnerships between institutions and organizations in the fields of education, training and youth and the world of work support the dialogue and find a series of concrete information, necessary to carry out the reform of the education, training and assistance systems for young people.\n\n
+        For the first time, the Program grants funding not only to universities and training institutes, but also to innovative partnerships, the so-called "knowledge alliances" and "sector skills alliances" , which will constitute synergies between the world of education and that of work by enabling higher education institutions, trainers and businesses to foster innovation and entrepreneurship as well as to develop new programs and qualifications to fill skill gaps.\n\n
+        In the sports field , the program focuses on transnational projects aimed at supporting amateur sports and addressing cross-border challenges such as dealing with match-fixing, doping, violence and racism, as well as promoting good governance, gender equality, social inclusion and physical activity for all.\n\n
+
+
+    </string>
+
+    <string name="internship">
+        Universities are the main sources of placements in Italy. A survey on the job placement services conducted  by Fondazione Crui (the Association of Rectors of Public and Private Italian Universities) offered an overview on the activities and the results of universities in Italy.\n\n
+        Some Italian students take part time employment in order to support themselves while studying. European students who want to have a placement experience can work in Italy without a work permit.  Non- EU students do need a work permit in order to work in Italy but this is not easy to obtain.\n\nThe employer must produce a letter of employment to the Italian Police Station “Questura”.  In Italy, the bureaucratic process takes a very long time and a work permit may not be granted at the end. English is not always widely spoken in Italy, especially amongst the older generations. Knowledge of Italian will make it much easier for foreign students to meet people and experience the culture.\n\n
+        The employer must produce a letter of employment to the Italian Police Station “Questura”.  In Italy, the bureaucratic process takes a very long time and a work permit may not be granted at the end. English is not always widely spoken in Italy, especially amongst the older generations. Knowledge of Italian will make it much easier for foreign students to meet people and experience the culture.
+
+    </string>
+
+    <string name="job_placement">
+        The Placement services of the Italian University is aim to support their students, undergraduates, graduates to guide them in their individual career choices, as well as facilitate their entry into the labor market. The services are also aimed at organizations, companies and employers with the aim of assisting them in the search and selection of students and graduates. Why contact Placement services:\n\n
+        Students and graduates\n
+        To concretely know the local, national and international labour market.\n
+        To identify and guide personal strategies for accessing the labour market.\n
+        To manage their active job search in a competent and autonomous manner.\n
+        To receive training aimed at creating and improving self-entrepreneurship.\n
+        Authorities, companies and employers
+        To post job or internship offers
+        To consult the CVs in the database
+        to meet students, undergraduates, graduates of the University
+        To generate a supply / demand crossroads as closely as possible to your requests\n\n
+        Placement services are divided into four lines, each of which includes a series of initiatives: Career education, Job training, Meetings with companies and Enterprise development.
+        Some programs are dedicated exclusively to students / graduates, others only to institutions and companies and others collect the needs and requests of both stakeholders. The student is always at the center of the activities carried out in the Career Service whose goal is to build services for the training of students and graduates throughout their personal and professional life.
+
+
+
+    </string>
+</resources>

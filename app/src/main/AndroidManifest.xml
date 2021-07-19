@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.destoholicstudent">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DestoholicStudent"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".ChatBoxActivity"
+            android:label="Chat Box"
+            android:parentActivityName=".MainActivity" >
+
+        </activity>
+        <activity android:name=".SignInActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignUpActivity"></activity>
+        <activity
+            android:name=".JobPlacementActivity"
+            android:label="Job Placement"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".InternshipActivity"
+            android:label="Internship"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ErasmusActivity"
+            android:label="Erasmus"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AccomodationActivity"
+            android:label="Accomodation"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".BankAccountActivity"
+            android:label="Bank Account"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".InternationalDeskActivity"
+            android:label="International Desk"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PermessoDiSoggiornoActivity"
+            android:label="Permesso Di Soggiorno"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CodiceFiscaleActivity"
+            android:label="Codice Fiscale"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Destoholic"></activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

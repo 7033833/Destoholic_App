@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532079181977",
+    "firebase_url": "https://destoholic-default-rtdb.firebaseio.com",
+    "project_id": "destoholic",
+    "storage_bucket": "destoholic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532079181977:android:41526ae629fddacd8f3808",
+        "android_client_info": {
+          "package_name": "com.example.destoholicstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532079181977-2l180of83ouv67c1k8brg4s663bkg85g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr83qWZX_xf6QapaOqDSqB7malAeGJ3f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532079181977-2l180of83ouv67c1k8brg4s663bkg85g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
